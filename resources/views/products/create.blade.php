@@ -45,7 +45,7 @@
                 <input type="file" name="image" class="form-control" placeholder="image">
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 text-center">
+        <div class="text-center col-xs-12 col-sm-12 col-md-12">
                 <button type="submit" class="btn btn-primary">Submit</button>
         </div>
     </div>
